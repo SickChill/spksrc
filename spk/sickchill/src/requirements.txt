@@ -1,5 +1,5 @@
-sickchill==2021.7.14.post8 \
-    --hash=sha256:0da93e81e2f1581b6320805b3a45147a03f9118adcdc8af09d939a058290f43f
+sickchill==2021.7.23.post1 \
+    --hash=sha256:fcc0cbbbd353af3eba3e430c96c28fd7a8b75062c860de1379c59ed6b6944c44
 poetry==1.2.0a1 \
     --hash=sha256:ef72ae8017bf866df55d35c5217116264b886c834bb9539fddbdf1d55f132600
 appdirs==1.4.4 \
